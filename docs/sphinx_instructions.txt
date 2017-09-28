@@ -1,0 +1,12 @@
+Sphinx Setup Instructions
+---------------------
+   
+   1) Go to docs folder in command prompt (cd docs).
+   2) Input command: sphinx-quickstart
+   3) Accept most of the defaults
+      a) When it asks to separate the source and build directories, type y
+      b) Add project name, version and any other info 
+      c) When it asks for the autodoc extension, type y
+
+
+
