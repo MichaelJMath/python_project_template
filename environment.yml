@@ -1,0 +1,5 @@
+name: <input project name>
+
+dependencies:
+  - python=2
+  - sphinx
