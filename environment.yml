@@ -1,4 +1,4 @@
-name: <input project name>
+name: <input environment name (should be different than project and package name or else can cause problems)>
 
 dependencies:
   - python=2
